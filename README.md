@@ -2,6 +2,8 @@
 
 This project is an example of the monorepo handled by yarn workspaces. 
 
+To know more - please refer to: [Yarn Monorepo example](https://medium.com/@mkocik/yarn-workspaces-monorepo-beginners-guide-ed89de47aa25)
+
 ## Installation
 
 Use yarn to install dependecies.
